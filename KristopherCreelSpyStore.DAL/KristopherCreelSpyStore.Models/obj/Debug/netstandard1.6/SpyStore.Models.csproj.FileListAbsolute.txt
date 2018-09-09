@@ -1,0 +1,9 @@
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard1.6\SpyStore.Models.deps.json
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard1.6\SpyStore.Models.dll
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.AssemblyInfo.cs
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard1.6\SpyStore.Models.pdb
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.dll
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.pdb
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.csprojAssemblyReference.cache
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.6\SpyStore.Models.AssemblyInfoInputs.cache

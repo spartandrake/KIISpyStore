@@ -1,0 +1,6 @@
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStroe.DAL.Tests\bin\Debug\netcoreapp1.1\SpyStore.DAL.dll
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStroe.DAL.Tests\bin\Debug\netcoreapp1.1\SpyStore.Models.dll
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStroe.DAL.Tests\obj\Debug\netcoreapp1.1\SpyStroe.DAL.Tests.csprojAssemblyReference.cache
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStroe.DAL.Tests\obj\Debug\netcoreapp1.1\SpyStroe.DAL.Tests.csproj.CoreCompileInputs.cache
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStroe.DAL.Tests\obj\Debug\netcoreapp1.1\SpyStroe.DAL.Tests.AssemblyInfoInputs.cache
+C:\Users\smart\source\repos\SpyStore.DAL\SpyStroe.DAL.Tests\obj\Debug\netcoreapp1.1\SpyStroe.DAL.Tests.AssemblyInfo.cs
