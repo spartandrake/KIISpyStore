@@ -8,7 +8,7 @@ using KristopherCreelSpyStore.Models.ViewModels.Base;
 
 namespace KristopherCreelSpyStore.Models.ViewModels
 {
-    public class CartRecordWithProductInfo
+    public class CartRecordWithProductInfo : ProductAndCategoryBase
     {
         [DataType(DataType.Date), Display(Name = "Date Created")]
         public DateTime? DateCreated { get; set; }
