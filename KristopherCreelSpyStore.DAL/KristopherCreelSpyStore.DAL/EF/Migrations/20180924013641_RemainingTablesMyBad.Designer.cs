@@ -8,9 +8,10 @@ using KristopherCreelSpyStore.DAL.EF;
 namespace KristopherCreelSpyStore.DAL.EF.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    partial class StoreContextModelSnapshot : ModelSnapshot
+    [Migration("20180924013641_RemainingTablesMyBad")]
+    partial class RemainingTablesMyBad
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.1.0-rtm-22752")
@@ -77,10 +78,7 @@ namespace KristopherCreelSpyStore.DAL.EF.Migrations
                         .HasColumnType("datetime")
                         .HasDefaultValueSql("getdate()");
 
-                    b.Property<decimal?>("OrderTotal")
-                        .ValueGeneratedOnAddOrUpdate()
-                        .HasColumnType("money")
-                        .HasComputedColumnSql("Store.GetOrderTotal([Id])");
+                    b.Property<decimal?>("OrderTotal");
 
                     b.Property<DateTime>("ShipDate")
                         .ValueGeneratedOnAdd()

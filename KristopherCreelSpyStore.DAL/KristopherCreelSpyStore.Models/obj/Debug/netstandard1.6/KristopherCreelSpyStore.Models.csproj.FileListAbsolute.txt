@@ -10,9 +10,7 @@ C:\Users\smart\source\repos\KristopherCreelSpyStore.DAL\KristopherCreelSpyStore.
 C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.DAL\KristopherCreelSpyStore.Models\bin\Debug\netstandard1.6\KristopherCreelSpyStore.Models.deps.json
 C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.DAL\KristopherCreelSpyStore.Models\bin\Debug\netstandard1.6\KristopherCreelSpyStore.Models.dll
 C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.DAL\KristopherCreelSpyStore.Models\bin\Debug\netstandard1.6\KristopherCreelSpyStore.Models.pdb
-C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.DAL\KristopherCreelSpyStore.Models\obj\Debug\netstandard1.6\KristopherCreelSpyStore.Models.csprojAssemblyReference.cache
 C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.DAL\KristopherCreelSpyStore.Models\obj\Debug\netstandard1.6\KristopherCreelSpyStore.Models.csproj.CoreCompileInputs.cache
-C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.DAL\KristopherCreelSpyStore.Models\obj\Debug\netstandard1.6\KristopherCreelSpyStore.Models.AssemblyInfoInputs.cache
 C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.DAL\KristopherCreelSpyStore.Models\obj\Debug\netstandard1.6\KristopherCreelSpyStore.Models.AssemblyInfo.cs
 C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.DAL\KristopherCreelSpyStore.Models\obj\Debug\netstandard1.6\KristopherCreelSpyStore.Models.dll
 C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.DAL\KristopherCreelSpyStore.Models\obj\Debug\netstandard1.6\KristopherCreelSpyStore.Models.pdb

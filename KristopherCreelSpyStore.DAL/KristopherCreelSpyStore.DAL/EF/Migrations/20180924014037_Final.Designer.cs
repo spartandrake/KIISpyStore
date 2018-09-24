@@ -8,9 +8,10 @@ using KristopherCreelSpyStore.DAL.EF;
 namespace KristopherCreelSpyStore.DAL.EF.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    partial class StoreContextModelSnapshot : ModelSnapshot
+    [Migration("20180924014037_Final")]
+    partial class Final
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.1.0-rtm-22752")
