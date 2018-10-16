@@ -110,7 +110,7 @@ namespace KristopherCreelSpyStore.DAL.Repos.Base
                 //A concurrency error occurred
                 //Should handle intelligently
                 Console.WriteLine(ex);
-                throw;
+                throw new Exception("Concurrency Issue.");
             }
             catch (RetryLimitExceededException ex)
             {

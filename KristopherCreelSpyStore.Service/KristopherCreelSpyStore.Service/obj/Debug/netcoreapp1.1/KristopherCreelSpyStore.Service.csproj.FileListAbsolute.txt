@@ -1,0 +1,11 @@
+C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.Service\KristopherCreelSpyStore.Service\bin\Debug\netcoreapp1.1\KristopherCreelSpyStore.Service.deps.json
+C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.Service\KristopherCreelSpyStore.Service\bin\Debug\netcoreapp1.1\KristopherCreelSpyStore.Service.runtimeconfig.json
+C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.Service\KristopherCreelSpyStore.Service\bin\Debug\netcoreapp1.1\KristopherCreelSpyStore.Service.runtimeconfig.dev.json
+C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.Service\KristopherCreelSpyStore.Service\bin\Debug\netcoreapp1.1\KristopherCreelSpyStore.Service.dll
+C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.Service\KristopherCreelSpyStore.Service\obj\Debug\netcoreapp1.1\KristopherCreelSpyStore.Service.csprojAssemblyReference.cache
+C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.Service\KristopherCreelSpyStore.Service\obj\Debug\netcoreapp1.1\KristopherCreelSpyStore.Service.csproj.CoreCompileInputs.cache
+C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.Service\KristopherCreelSpyStore.Service\obj\Debug\netcoreapp1.1\KristopherCreelSpyStore.Service.AssemblyInfoInputs.cache
+C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.Service\KristopherCreelSpyStore.Service\obj\Debug\netcoreapp1.1\KristopherCreelSpyStore.Service.AssemblyInfo.cs
+C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.Service\KristopherCreelSpyStore.Service\bin\Debug\netcoreapp1.1\KristopherCreelSpyStore.Service.pdb
+C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.Service\KristopherCreelSpyStore.Service\obj\Debug\netcoreapp1.1\KristopherCreelSpyStore.Service.dll
+C:\Users\smart\Documents\GitHub\KIISpyStore\KristopherCreelSpyStore.Service\KristopherCreelSpyStore.Service\obj\Debug\netcoreapp1.1\KristopherCreelSpyStore.Service.pdb

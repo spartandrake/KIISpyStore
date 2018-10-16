@@ -8177,7 +8177,7 @@
     "C:\\Users\\smart\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\smart\\Documents\\GitHub\\KIISpyStore\\KristopherCreelSpyStore.DAL\\KristopherCreelSpyStore.DAL\\KristopherCreelSpyStore.DAL.csproj",
       "projectName": "KristopherCreelSpyStore.DAL",
@@ -8195,6 +8195,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+        "C:\\Users\\smart\\Documents\\GitHub\\KIISpyStore\\KristopherCreelSpyStore.DAL\\nugetpackages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -10,7 +10,7 @@ using KristopherCreelSpyStore.DAL.Repos.Interfaces;
 
 namespace KristopherCreelSpyStore.DAL.Repos
 {
-    public class CategoryRepo : RepoBase<Category>
+    public class CategoryRepo : RepoBase<Category>, ICategoryRepo
     {
         public CategoryRepo(DbContextOptions<StoreContext> options) : base(options)
         {
